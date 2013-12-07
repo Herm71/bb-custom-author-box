@@ -1,0 +1,76 @@
+/** Custom Author Box CSS */
+
+
+.postauthor {
+    margin-top: 15px;
+    border: 1px solid #e2eef7;
+    overflow: hidden;
+    padding: 0;
+    background-color: #f5f8fa;
+}
+
+.postauthor img {
+    display: block;
+    float: left;
+    height: 100px;
+    margin-right: 15px;
+    width: 100px;
+}
+
+.postauthor h4 {
+    color: #333333;
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-left: 105px;
+    padding: 10px 0 8px;
+}
+
+.postauthor p {
+    color: #000;
+    font-size: 15px;
+    line-height: 27px;
+    margin-bottom: 0;
+}
+
+.postauthor-bottom {
+    padding: 10px 20px 0 20px;
+    border-bottom:1px solid #ddd;
+    overflow: hidden;
+}
+
+.postauthor-bottom span {
+    font-weight: bold;
+    font-size: 14px;
+    margin: 0 10px 0 0;
+}
+
+.postauthor-bottom .author-fb {
+    background: url("images/author-fb.png") no-repeat scroll left center transparent;
+    color: #47619F;
+    font-size: 14px;
+    padding: 0 0 0 25px;
+    margin: 0 10px 0 0;
+}
+
+.postauthor-bottom .author-twitter {
+    background: url("images/author-twitter.png") no-repeat scroll left center transparent;
+    color: #0099FF;
+    font-size: 14px;
+    padding: 0 0 0 25px;
+    margin: 0 10px 0 0;
+}
+
+.postauthor-bottom .author-gplus {
+    background: url("images/author-gplus.png") no-repeat scroll left center transparent;
+    color: #D03B3B;
+    font-size: 14px;
+    padding: 0 0 0 25px;
+    margin: 0 10px 0 0;
+}
+
+.postauthor-bottom .author-blog {
+    background: url("images/author-blog.png") no-repeat scroll left center transparent;
+    color: #21759b;
+    font-size: 14px;
+    padding: 0 0 0 25px;
+}
